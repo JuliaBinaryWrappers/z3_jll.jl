@@ -1,9 +1,10 @@
 name = "z3_jll"
 uuid = "1bc4e1ec-7839-5212-8f2f-0d16b7bd09bc"
-version = "4.8.7+0"
+version = "4.8.8+0"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+libcxxwrap_julia_jll = "3eaa8342-bff7-56a5-9981-c04077f7cee7"
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
 
 [compat]
