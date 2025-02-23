@@ -5,7 +5,7 @@ using GMP_jll
 using libcxxwrap_julia_jll
 using CompilerSupportLibraries_jll
 JLLWrappers.@generate_wrapper_header("z3")
-JLLWrappers.@declare_library_product(libz3, "libz3.so.4.13")
+JLLWrappers.@declare_library_product(libz3, "libz3.so.4.14")
 JLLWrappers.@declare_library_product(libz3jl, "libz3jl.so")
 JLLWrappers.@declare_executable_product(z3)
 function __init__()

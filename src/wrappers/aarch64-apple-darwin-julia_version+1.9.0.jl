@@ -4,14 +4,14 @@ export libz3, libz3jl, z3
 using GMP_jll
 using libcxxwrap_julia_jll
 JLLWrappers.@generate_wrapper_header("z3")
-JLLWrappers.@declare_library_product(libz3, "@rpath/libz3.4.13.dylib")
+JLLWrappers.@declare_library_product(libz3, "@rpath/libz3.4.14.dylib")
 JLLWrappers.@declare_library_product(libz3jl, "@rpath/libz3jl.dylib")
 JLLWrappers.@declare_executable_product(z3)
 function __init__()
     JLLWrappers.@generate_init_header(GMP_jll, libcxxwrap_julia_jll)
     JLLWrappers.@init_library_product(
         libz3,
-        "lib/libz3.4.13.dylib",
+        "lib/libz3.4.14.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
