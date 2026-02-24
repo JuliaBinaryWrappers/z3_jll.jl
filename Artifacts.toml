@@ -1,614 +1,614 @@
 [[z3]]
 arch = "aarch64"
-git-tree-sha1 = "c3340910ae4e91fd04133b988a0a43d810e21c68"
+git-tree-sha1 = "cbd0b71b017f6bb7f1316373f4ce2f3fee868930"
 julia_version = "1.10.0"
 os = "macos"
 
     [[z3.download]]
-    sha256 = "639e11a0b801f0cd97a50575afdef14e347a8038c370f77402dc6e1204695970"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
+    sha256 = "3bfd67099ee9b4e875edc543162c1959096ca0faaf16673116330614c4bfeb1e"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
 [[z3]]
 arch = "aarch64"
-git-tree-sha1 = "0a61efa401c1dba09a9e41f6f37c08eecace1d80"
+git-tree-sha1 = "ae5156f1b4f6bd1583705d7fee65472d4ddf6b25"
 julia_version = "1.11.1"
 os = "macos"
 
     [[z3.download]]
-    sha256 = "448f1a680a6a0d2862f92568c7b519ee12ac2e3c297bd6bbe7492637aecbdca8"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.aarch64-apple-darwin-julia_version+1.11.1.tar.gz"
+    sha256 = "58914799112526cbbfdd962f3212c8317d78fee48842373e71c6917ec88ab153"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.aarch64-apple-darwin-julia_version+1.11.1.tar.gz"
 [[z3]]
 arch = "aarch64"
-git-tree-sha1 = "cf6cc09a4cf0a7112a44de03562de0e2575b3abe"
+git-tree-sha1 = "9ed0e8da247c5802b80f292374f637f2b92e1f0e"
 julia_version = "1.12.0"
 os = "macos"
 
     [[z3.download]]
-    sha256 = "8375fae287d55429b2cd71b6d523d8530b52a8a42fce93c86ea2b926e7d7b49c"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
+    sha256 = "b124f63dcfc522a85871b119abe9bb1990647cb0469cf64987c0bf57310ce302"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
 [[z3]]
 arch = "aarch64"
-git-tree-sha1 = "4c1a749bef63b73256972a9972dd52d94440d9e5"
+git-tree-sha1 = "415e8a0cd098948538895f08ce6cc072c94fd0af"
 julia_version = "1.13.0"
 os = "macos"
 
     [[z3.download]]
-    sha256 = "1d890ee03c7e78fdaaeec9b0a1072039e435361d5291d67ffcee8056b2a5d664"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.aarch64-apple-darwin-julia_version+1.13.0.tar.gz"
+    sha256 = "ca6d7e5bc7c47e2b28d2b04466d2090b2048722b8f4dde3cd5f43a7a309f9675"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.aarch64-apple-darwin-julia_version+1.13.0.tar.gz"
 [[z3]]
 arch = "aarch64"
-git-tree-sha1 = "30fff425632e5f6059d8875c4be80b29bf57d8b3"
+git-tree-sha1 = "3c405dc8340057334884837315748cce4973d3b9"
 julia_version = "1.14.0"
 os = "macos"
 
     [[z3.download]]
-    sha256 = "17ad9bcf96e27b01b0a2bf09aabf62a00737802a4c1b9921835627d9c695c189"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.aarch64-apple-darwin-julia_version+1.14.0.tar.gz"
+    sha256 = "514a788e3220457558c86cf96139ae88fd8a693cf9102320dd09297a8aa98891"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.aarch64-apple-darwin-julia_version+1.14.0.tar.gz"
 [[z3]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e63a0152660e7e36eb4db1d0e0c8e64871d0d1ba"
+git-tree-sha1 = "1a323ab0a5d82d0e40669a06fc30028409ff8d9e"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[z3.download]]
-    sha256 = "25b372c9953ed3431bfa068a85071412591e81f9103d4e15f7d30bc034a6172a"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "8d307545f68a7d5dbff0a535f217fc2e82d6ba059021d70b042d50a775eca4d7"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[z3]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "aabc3b4be2e6d9de067ada054dfff5a26073412e"
+git-tree-sha1 = "d2019484f30af2d13b980d58090a27866505fa2d"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[z3.download]]
-    sha256 = "a1a86e412eaad1d9ead46047a82787c5c6d8a655f9871b74a6b85ef6c8f6b116"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.aarch64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "f7bf36317a4d7a8af35f89c603b4a5d6b635b60770812991271b0beadef48495"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.aarch64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
 [[z3]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "56eb473429ea6900bc8ab3de82d53f83f884e5d7"
+git-tree-sha1 = "4f4889d90d19c55adaa3cc8b38882cfa8e4edaab"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[z3.download]]
-    sha256 = "07e3c89303c3f0e5ea0f2a955ba6220b5beb35b4efb05807d186ca937566a6e5"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.aarch64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "35d3a322ed293e5c7a63baadb4cbf09eed4c6b5474b3ec897ff140b542956fc9"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.aarch64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[z3]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "924cf73761164e61190c350076978c621ebd2e65"
+git-tree-sha1 = "293d7bdfac7899d2a825b434c7da2d2dfc141f9d"
 julia_version = "1.13.0"
 libc = "glibc"
 os = "linux"
 
     [[z3.download]]
-    sha256 = "d85be6df9c0a2b096a4f4190d8b30cc33b156ce8c95db1b4dd306816feaeeb69"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.aarch64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+    sha256 = "c96c5dfbdf5231bd12786db78f674104a40c45557c28e849646410f396449c94"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.aarch64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
 [[z3]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ad73f5ecb740bc95ad27ff0a3b7aa840dd629abf"
+git-tree-sha1 = "6f3f7df465155fa675696ff2f4e0e70b8c899e51"
 julia_version = "1.14.0"
 libc = "glibc"
 os = "linux"
 
     [[z3.download]]
-    sha256 = "435132a9993d5eeb216b982260da33921b92e4dcc01f13b236a4c876a72029d3"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.aarch64-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
+    sha256 = "e57a76f97d5f3c5c01c35e2072e097f622e6067dddb79f8020f89806f1e29c48"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.aarch64-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
 [[z3]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c1e188e3bbaeaef4fcd026784ed575bb7bd55aec"
+git-tree-sha1 = "eff33c32778913af2dbb508cad4bdc0ebb0eb079"
 julia_version = "1.10.0"
 libc = "musl"
 os = "linux"
 
     [[z3.download]]
-    sha256 = "30768c3882f4ab139c5801a2350ee4ba8aedc84dc25af1f42bc9b85d65137428"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.aarch64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "cd15382730dff833ec4a5cb714e8c067ac0720f232f6b7c0258210914a2447d5"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.aarch64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
 [[z3]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ec3eddf5689ffa5124ee82aab332d105db2bcdf7"
+git-tree-sha1 = "a7f5ffcdb0aeff43fe1678d62f8dca8b60fb3368"
 julia_version = "1.11.1"
 libc = "musl"
 os = "linux"
 
     [[z3.download]]
-    sha256 = "7ba0c70f9389dc6e6e57d45c99044f135f2102bead33a51fa6f7871257a6b4ce"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.aarch64-linux-musl-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "bae85bea993ea36a9ce03cbe4712eb377296583801cffee6df66e9b715d9802c"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.aarch64-linux-musl-cxx11-julia_version+1.11.1.tar.gz"
 [[z3]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1f47e0176c693d64b061ed32eeac823bfd55eb54"
+git-tree-sha1 = "5cc3b366ccd6751575b606bdbe8714437f6773ea"
 julia_version = "1.12.0"
 libc = "musl"
 os = "linux"
 
     [[z3.download]]
-    sha256 = "af1e7e1ba5b4255800a33890515bdc666958d5b57ffb5f29ccf8d7f8fb4b4dda"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.aarch64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "2964b6523234f9b885b12a3f79162063f475f32d504d19744730c9129a3f0939"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.aarch64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
 [[z3]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e3f000c238f3e7aec23983e7e587963b1fedfc74"
+git-tree-sha1 = "994d9a48d9e4ea20563e3aebb8da52fc1739dd10"
 julia_version = "1.13.0"
 libc = "musl"
 os = "linux"
 
     [[z3.download]]
-    sha256 = "9e6ebde0d954eb7d57f3368a52f1b58206d67622a53fb1d3fa07ec3f84b7a740"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.aarch64-linux-musl-cxx11-julia_version+1.13.0.tar.gz"
+    sha256 = "961f2e53d40d13aae20103dc23ed6c2f3fceb35a8aa7ca0fa329b24cecec177d"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.aarch64-linux-musl-cxx11-julia_version+1.13.0.tar.gz"
 [[z3]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b9911a2ea855969f54543e49832253d52dbea8c9"
+git-tree-sha1 = "37b604cad9d600c78df982738ff60995c98c498d"
 julia_version = "1.14.0"
 libc = "musl"
 os = "linux"
 
     [[z3.download]]
-    sha256 = "b9ea96048b3f00cbc6d1e2913d0393060d8ca66496cb991a6673b5e7e52139a2"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.aarch64-linux-musl-cxx11-julia_version+1.14.0.tar.gz"
+    sha256 = "0944210b253479fb95f07dedb2ec7c7a8b9b4bceac79b18fa7efc9f57e5a0218"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.aarch64-linux-musl-cxx11-julia_version+1.14.0.tar.gz"
 [[z3]]
 arch = "aarch64"
-git-tree-sha1 = "b9cd31393a869d15ddae087e4c9a9c965e0bd1e2"
+git-tree-sha1 = "640a939d5d6c563f73009177bf19842f250c6f47"
 julia_version = "1.12.0"
 os = "freebsd"
 
     [[z3.download]]
-    sha256 = "55cf26b689f06b10b6928daab13f883302da92c00051362897574886ed05eb78"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.aarch64-unknown-freebsd-julia_version+1.12.0.tar.gz"
+    sha256 = "77ec5a83ec0d2e1e6a933f5411a5fde9364e96a03aff1b528160daebdf603cf0"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.aarch64-unknown-freebsd-julia_version+1.12.0.tar.gz"
 [[z3]]
 arch = "aarch64"
-git-tree-sha1 = "20656c65ca22dbdafea6573705e9fdb6e2bda650"
+git-tree-sha1 = "6b48e005e263242a765fdb0e447e55ba0f481163"
 julia_version = "1.13.0"
 os = "freebsd"
 
     [[z3.download]]
-    sha256 = "1f327275f7c2a388b7f05002f25a199cd443f0eeeb2e005028e7e2f21a399137"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.aarch64-unknown-freebsd-julia_version+1.13.0.tar.gz"
+    sha256 = "289d159396e5e13eeb9258882c92d4fed8a3dbd8213ff6ee8d3aa554aa780978"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.aarch64-unknown-freebsd-julia_version+1.13.0.tar.gz"
 [[z3]]
 arch = "aarch64"
-git-tree-sha1 = "ad4ccbcf5d9e876d5b06faaa68b2c70f3f0e658f"
+git-tree-sha1 = "6b590112b409a1731639b4bdc47080067e32b5f7"
 julia_version = "1.14.0"
 os = "freebsd"
 
     [[z3.download]]
-    sha256 = "807a89ef46fa7ce2f65b5583a3e4b90629f41517c6106f7e64c844f283204264"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.aarch64-unknown-freebsd-julia_version+1.14.0.tar.gz"
+    sha256 = "f414894129cd0c49ae7e302211743607fcfb57c39279aa8d2450ab36706d0511"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.aarch64-unknown-freebsd-julia_version+1.14.0.tar.gz"
 [[z3]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "98e425d253e681fa4394dbb1b5879f7e0bb6eccc"
+git-tree-sha1 = "69a4e764f81c129c3aa26c5dda50ef4a664c0db9"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[z3.download]]
-    sha256 = "f6179443aa55470b6fd084b4d48328227f3fb1fa7acd26b11d82930bdfc02f97"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.i686-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "5f82b31558d4997d085a463ba7bf69441b04a3794d6dfd4798b35a4a4950e4f5"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.i686-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[z3]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a3f554cd69642c76b02b45194c53efdbfe6696c3"
+git-tree-sha1 = "fcadbcf14756f25c5bca3e20dc073929fca2920b"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[z3.download]]
-    sha256 = "bb788faa5d6a1af2cc3c1b8f336fca6dc4853e6c86b0f777294d07280ffb073c"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.i686-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "d8b874f1c3437140a0dbc0f67f14d92dd5909dc99a2d4c7733fd65e1b8147af1"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.i686-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
 [[z3]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e8eb10635a9ae7b3e324378b5cceac588241e70a"
+git-tree-sha1 = "9a0f70ffd4068dcb2b8392fe41b08e9bf76b30de"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[z3.download]]
-    sha256 = "b7afae33048ff084439855f3818cec6041fdb4d8fcdb1f61356efe93e74a1c83"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.i686-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "cfbf96022068096c0fe016a0c5a22e02039b251f9d9be979570f2bed1f948879"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.i686-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[z3]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "19143dc047c6da6c6430553a35f53f1b522c863b"
+git-tree-sha1 = "dad484b7d4f4ab6029b04849e9e4b4e6b192dcea"
 julia_version = "1.13.0"
 libc = "glibc"
 os = "linux"
 
     [[z3.download]]
-    sha256 = "de023b381700979ee5cc0202ef43866cd4c2dde56cd3922f3e33cfc4b6fdbb96"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.i686-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+    sha256 = "fc92ecd0139312257004d7274c2005178731a7f05b26dd6499cf739f767198ab"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.i686-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
 [[z3]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "efce2523ae80514a36f2c1c2a88e16fa6c38a24c"
+git-tree-sha1 = "121fe9eafb1bede615780f87fb2e613b96c6088f"
 julia_version = "1.14.0"
 libc = "glibc"
 os = "linux"
 
     [[z3.download]]
-    sha256 = "a42c37c52f5f49a944571c2076df9299183cd1e11bc06b124a489b5ab3a8b8f1"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.i686-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
+    sha256 = "504a4e6b5e037d59af4d5e3540fd961af9d6caa3a3db55a233ef6392ca40f458"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.i686-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
 [[z3]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "29396ba35dd25e293f04859baf2418d3f60138f5"
+git-tree-sha1 = "ad132fe8393b364fee1ca7f4748f6e78f2a83079"
 julia_version = "1.10.0"
 os = "windows"
 
     [[z3.download]]
-    sha256 = "12911de18404a10be0235baf255c9bcc76ce684b4f388ffefb31b4d7857a53c9"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.i686-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "cd06b4f6fbb7ed8abaf72d6a39a33a38e2eb950e6844fe236227af1cffd63217"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.i686-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
 [[z3]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "39e9b5e1f6f5ee03a17bef5addccc1915e69269b"
+git-tree-sha1 = "6cd1c9a020c35ff47635bea61b1b12be967d709e"
 julia_version = "1.11.1"
 os = "windows"
 
     [[z3.download]]
-    sha256 = "66dc0d73d0b84670ade361ec70927cced14407a0f40337a8ef51dcb5c745a4d0"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.i686-w64-mingw32-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "7ce8589d74f58ee76d2adf834b31242770e8b845a6be4e84021a724408d1523d"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.i686-w64-mingw32-cxx11-julia_version+1.11.1.tar.gz"
 [[z3]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "112913db0734db0cccacef979d11e46d1b7e7bf4"
+git-tree-sha1 = "baf69134d11fa3dfe895c34d8811c79556794ad5"
 julia_version = "1.12.0"
 os = "windows"
 
     [[z3.download]]
-    sha256 = "86b2b1772f2874e974625bb15d9c33817af9c4c7c40504890b00eea9b02b4827"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.i686-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "56c6678ff8869e4650a085f9289304e2ea63a439ece59230d13292d4a16368b4"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.i686-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
 [[z3]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a145f7cae09875e2ee91193406a7e4458fe437eb"
+git-tree-sha1 = "31e6f20773b06b926881247d14a2b0bfd0444579"
 julia_version = "1.13.0"
 os = "windows"
 
     [[z3.download]]
-    sha256 = "a2d4f7b8683ffdbb037629cc3850bb7a291f69072d579a0f7de6575c3bc68472"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.i686-w64-mingw32-cxx11-julia_version+1.13.0.tar.gz"
+    sha256 = "d63197fd21e3781c68d92cd8e6fde3bada7bea2f5dea2a9b39a5162fc3d71930"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.i686-w64-mingw32-cxx11-julia_version+1.13.0.tar.gz"
 [[z3]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "35110ae1413c5a175eb1f7fc30b4b2c8f75d9a11"
+git-tree-sha1 = "4ae6305cab47576c9e41e2052b01bd446ca19571"
 julia_version = "1.14.0"
 os = "windows"
 
     [[z3.download]]
-    sha256 = "6e34a8fbba22ab4c19915987f3c75e09bf713e1983815b4c744c72a0881aa8f6"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.i686-w64-mingw32-cxx11-julia_version+1.14.0.tar.gz"
+    sha256 = "11da5e5432d1033c7ff3ab354581d005278c350304b99f2d14da78e89cabb375"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.i686-w64-mingw32-cxx11-julia_version+1.14.0.tar.gz"
 [[z3]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "dbea98e13aa72524d3973cca15927c3e0589362e"
+git-tree-sha1 = "f372260cf57fe3a53a5073cd4104cdbf401afc50"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[z3.download]]
-    sha256 = "c2c734b8e62060d0dbef3577f303740f22280b82acaafab40ed2ddedcf7c11fd"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "9df72a48b49cb4299b0fe4166fc5a0e0a0f8491ba55e34ed0ad1a889c16838b1"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[z3]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9518938e9e0d29e1e50839ea57e1231f631ada22"
+git-tree-sha1 = "8b7c23a510a6f440cbbce4528d3004086a18f5ff"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[z3.download]]
-    sha256 = "0047a47f92530f18158b4657d0b8850242aa630a103b0583d8c5c817eff7ae49"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.powerpc64le-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "4f0285eb64e7ba0cefcb2addf3c318884e7c6d7b508060e00ddf7d0490b247ac"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.powerpc64le-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
 [[z3]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4dcbde77b4000de1701b34c72a6714173f1eb5bd"
+git-tree-sha1 = "c3021e25d6fffd4669a4f4a6c9087f733aa1ac44"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[z3.download]]
-    sha256 = "2499235d37c54e777f3eba08d654fc763b091b3770fa2ec0c0cd8425eb18b084"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.powerpc64le-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "408409421b168a2354dc555d1a58ba87363d0bdaf4208d8e14bc456b6c78d80b"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.powerpc64le-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[z3]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "091e0735563c9e6d7f601149fbb25c114af57964"
+git-tree-sha1 = "7abff455552418cdf35e35118687a40ceb27d2f5"
 julia_version = "1.13.0"
 libc = "glibc"
 os = "linux"
 
     [[z3.download]]
-    sha256 = "8de3074c6388108b2641ebaa5aef82e2c261203215f042e7fbc0ce199ade58c7"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.powerpc64le-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+    sha256 = "798e52141aedf9730e48da3de21a28ad35f659956360b19e91a63f2b1dbd4e10"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.powerpc64le-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
 [[z3]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3e3658d505f2448f54900793b8d80fad65052f40"
+git-tree-sha1 = "ca8a29f51f2cbe3bd598f9c8e4ac9e65ff145a96"
 julia_version = "1.14.0"
 libc = "glibc"
 os = "linux"
 
     [[z3.download]]
-    sha256 = "f193cd8349388f5f587d8d521ec33de5df3aa22ecc230e0520969ac943ae7eb8"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.powerpc64le-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
+    sha256 = "c8ff7566300e75cfe1f26f4f084040f3ab279a72a330bb1acf56e05e28b6c15a"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.powerpc64le-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
 [[z3]]
 arch = "riscv64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c37fed70b0769fe38a512add10ca686926f06fef"
+git-tree-sha1 = "876e6bf9e4a6013c8b786d8df6576670020730ec"
 julia_version = "1.13.0"
 libc = "glibc"
 os = "linux"
 
     [[z3.download]]
-    sha256 = "85f8ac315ca77fdbfc9bbe968111f18903586a979dc460ba1a97b82c8b39e185"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.riscv64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+    sha256 = "8bed339d18782c8e082db8cf1b2895f8fb800cfc45c97559533f860c7b8836fc"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.riscv64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
 [[z3]]
 arch = "riscv64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a3b1a0dabe362eb1522606d486e73cc540e4df9a"
+git-tree-sha1 = "1050df027107e96e0136d7f0655d0025a1cdd4d0"
 julia_version = "1.14.0"
 libc = "glibc"
 os = "linux"
 
     [[z3.download]]
-    sha256 = "03062c3b1d39faf71c2212c3eec71801a517e742aacfe87e5ec36c042a47195d"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.riscv64-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
+    sha256 = "f251b717e344cfb19c4c0f570eab2bf2950fdab900fc9fa61ef8d016ac374e69"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.riscv64-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
 [[z3]]
 arch = "x86_64"
-git-tree-sha1 = "4bc483cc68c2fc716b850abf649105d30dd092f0"
+git-tree-sha1 = "cf399e36d0b18aeaecec7d9ccfc236f2059c1776"
 julia_version = "1.10.0"
 os = "macos"
 
     [[z3.download]]
-    sha256 = "72f851fe77202be5d05f85b035eed79b93b4d91881023786b55784dda8dc234f"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
+    sha256 = "1fcff7885f006f61df0f1c9f3b7f33ecd379c06820daea6232ba72f66f3a9b3a"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
 [[z3]]
 arch = "x86_64"
-git-tree-sha1 = "5d3a3377bdcc4348be1d0ee3c6ab00b36ab8d090"
+git-tree-sha1 = "1304a177ed6ef74cfa5b7a9fae4c9bc8a61a98a3"
 julia_version = "1.11.1"
 os = "macos"
 
     [[z3.download]]
-    sha256 = "e689b0a340a52093e743920aabef1f214e26ec945476e5ba4e2d3aef4c0a124b"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.x86_64-apple-darwin-julia_version+1.11.1.tar.gz"
+    sha256 = "f28b5669e1abd925c4455e66c1af24228aaea7100138f82151e30d8db288583f"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.x86_64-apple-darwin-julia_version+1.11.1.tar.gz"
 [[z3]]
 arch = "x86_64"
-git-tree-sha1 = "f7c48fc58ff8de5f93cc89822568b89584df88dd"
+git-tree-sha1 = "2711e976733b22e2add6043fdd253c9a75777813"
 julia_version = "1.12.0"
 os = "macos"
 
     [[z3.download]]
-    sha256 = "ae5acca450a442bdca5c7cb2942dc27d92079f36d15d360d55b107687759a6d4"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
+    sha256 = "b9f2a63ded44c5327b3d514a20c67c8beaa0256329342f79b1160452f2a55cac"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
 [[z3]]
 arch = "x86_64"
-git-tree-sha1 = "3c50053e762ae7d98ff2ff2290130201cf9b721c"
+git-tree-sha1 = "2badbe1f5a3b783e292b51a5b9f6b5ff451a2777"
 julia_version = "1.13.0"
 os = "macos"
 
     [[z3.download]]
-    sha256 = "d743f2275ca060bab04fb2407586348849381437d5d0833ab46c6470dce204a8"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.x86_64-apple-darwin-julia_version+1.13.0.tar.gz"
+    sha256 = "51692d3de35ffeee260396c08c2675568f7ceb8a67f750acdd6fc793511cf7a5"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.x86_64-apple-darwin-julia_version+1.13.0.tar.gz"
 [[z3]]
 arch = "x86_64"
-git-tree-sha1 = "694383c50b7446f860b468f109dd65529158cbc4"
+git-tree-sha1 = "e4c92dba0258bea5ef88fffe7e270d26a83f798f"
 julia_version = "1.14.0"
 os = "macos"
 
     [[z3.download]]
-    sha256 = "a1502032133165efa5e897298a5b25077f2e7200467ce366bcc69e9df76d8fc0"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.x86_64-apple-darwin-julia_version+1.14.0.tar.gz"
+    sha256 = "b678139df2f5174936cbbe1be98126577a9fed2ae7f2b4d277aece943f875eca"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.x86_64-apple-darwin-julia_version+1.14.0.tar.gz"
 [[z3]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "01e21f7d64cbe2de06d92b0ca24b93a32e6e5d79"
+git-tree-sha1 = "d2e4b7a5df7a8a3775a3e6a3484788f914471d9a"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[z3.download]]
-    sha256 = "4f70a8c02bfeba4d1ecdac63ee6544f375251856496d700a8f10ab43e6bfecbe"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "e2c8ae9020fb1382a47ec5d6db276ccfc1c2886edc486847fa5d07ec69b72b07"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[z3]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b85df4c0aa3ec0f56e82d47db9eab6d641e1eb28"
+git-tree-sha1 = "890bd90aaa1ac5d0403d59682af4beef1fdbf844"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[z3.download]]
-    sha256 = "b77ce1e336284e67eb12d4e90a8eaa2aebbd1b9e6e340920d3c6272dce8fa060"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.x86_64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "d572a1795d964e6112eb56cae9bca96df107c9eece758d035db48d5bbfd24b70"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.x86_64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
 [[z3]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "36502a06cdf8d21bfa1fc0fd8af9a267c5e5a0ed"
+git-tree-sha1 = "485866e6bbc254b68bbc7ec11c14fb0a821d43b2"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[z3.download]]
-    sha256 = "5486a313732decfab3c82310139c0f886166a6b2d1f146fe64c00c4c84af7736"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.x86_64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "323251d0f03e6301db8d1196778ff4093016023ba8440a62463fb41d33e879f4"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.x86_64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[z3]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7302a5c7636ab109b0041a3c825b697aff551fc8"
+git-tree-sha1 = "d83a7e8ddeb1823f6171dad721654dac7c352da2"
 julia_version = "1.13.0"
 libc = "glibc"
 os = "linux"
 
     [[z3.download]]
-    sha256 = "60c507496bfb99b91844844a397b1119309130fe828e4c8a27f113806ddb3910"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.x86_64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+    sha256 = "6530d0e641254f0ca699a79242eb953879407fd7bc749854e54eb899e3ffd96c"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.x86_64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
 [[z3]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "40ef31057929f6127e1cc2ea351281e09af01e9e"
+git-tree-sha1 = "429b012cf544f8c04bed71a6e19f46b416fd3d1f"
 julia_version = "1.14.0"
 libc = "glibc"
 os = "linux"
 
     [[z3.download]]
-    sha256 = "bb1735e7e232e71a5cf3d75d043f573b8925a60d2ac5210fb0243d49eb420dc1"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.x86_64-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
+    sha256 = "4cec19fe76635910321948dbdb41719fe02e53fc15e51e5a758025c8deffee67"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.x86_64-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
 [[z3]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "930e3ae529a77801b9fdec9fd3c5dbe0771740c3"
+git-tree-sha1 = "00e043f55f09481871a13399b6d0719c5284556a"
 julia_version = "1.10.0"
 libc = "musl"
 os = "linux"
 
     [[z3.download]]
-    sha256 = "f7f1614e8815b0aea1881fe76533a9e83995f2143df0b1ce157f17ba9cc21cd9"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.x86_64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "527ce722f0afa8a1a231c2e3c70f6327f87c76b7c875dde788ffe66b1afcfd80"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.x86_64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
 [[z3]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9a804b0ca803880855f01b2befa18240e9026a7b"
+git-tree-sha1 = "e4785ea4f87735d12574d459523f8ba9a57b2267"
 julia_version = "1.11.1"
 libc = "musl"
 os = "linux"
 
     [[z3.download]]
-    sha256 = "c1b059caa306025f29a19825fd84ecbe046ee976de810958cc06763bae05171d"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.x86_64-linux-musl-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "0451ed39540016f7102a75c50dc5daeb0873a1f267c9bcd1b104a1c521604658"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.x86_64-linux-musl-cxx11-julia_version+1.11.1.tar.gz"
 [[z3]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c8968b0f71dbfcb7a455e6dfbf28266f626062ca"
+git-tree-sha1 = "8a2d1b00ae5e828bb6e9b5acddb33b344be4f8c2"
 julia_version = "1.12.0"
 libc = "musl"
 os = "linux"
 
     [[z3.download]]
-    sha256 = "d4f429a14ed891d2e392e857db476d54fd0f867d36e454b70c8cd51edfe629b8"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.x86_64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "48fb81e2b88c9f35b199f41ecd97ad7d6dcdafa56079a7b7f1c9ea767edaeb28"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.x86_64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
 [[z3]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9a87ed5f7c36cb9760c9aa6b8e5a41c335284c98"
+git-tree-sha1 = "347e8a7f994034da9543f6d170ffcddd41fd0934"
 julia_version = "1.13.0"
 libc = "musl"
 os = "linux"
 
     [[z3.download]]
-    sha256 = "adafe477de59144c645c1223c6c23bc35c4aec15fb561f7d122c6c5857db4c6e"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.x86_64-linux-musl-cxx11-julia_version+1.13.0.tar.gz"
+    sha256 = "d8a16ccca8fb498195ab4ff266ee66863d6306d848b765cc9c4823246fdb4edc"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.x86_64-linux-musl-cxx11-julia_version+1.13.0.tar.gz"
 [[z3]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3e0036550bab9e6a90187b701d077a2077da0c13"
+git-tree-sha1 = "0a24950c8c3a5f4dc7dbc3919cf08e43e6ae545e"
 julia_version = "1.14.0"
 libc = "musl"
 os = "linux"
 
     [[z3.download]]
-    sha256 = "6b139b5b3a7c64f26c874c2d17bec53ea344366c86e239dc4a2c45b0f0c9c0dc"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.x86_64-linux-musl-cxx11-julia_version+1.14.0.tar.gz"
+    sha256 = "74ab66d093d2cd7b2775b17fbfc268151d75bf851e1233fda01c2a0fa6d407e9"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.x86_64-linux-musl-cxx11-julia_version+1.14.0.tar.gz"
 [[z3]]
 arch = "x86_64"
-git-tree-sha1 = "e1bcb89c6e906c07407e0752429244e6c65b7c72"
+git-tree-sha1 = "f581f6b97ec370c2fdaf45091f3a74cdb8e85a57"
 julia_version = "1.10.0"
 os = "freebsd"
 
     [[z3.download]]
-    sha256 = "2b2c328b3493e1bc4bc29ab1eeef306b9db414bf8069fec7beb21e659157a651"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.x86_64-unknown-freebsd-julia_version+1.10.0.tar.gz"
+    sha256 = "525a81ee3460df1a5576e3124f2781bab1e8b34dec2de5d4859bab6a5080a004"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.x86_64-unknown-freebsd-julia_version+1.10.0.tar.gz"
 [[z3]]
 arch = "x86_64"
-git-tree-sha1 = "4a15478990e4770f002aa8945412b63a326507a7"
+git-tree-sha1 = "c0416e8aba6f1ce1608c196c36719fdf01daccd9"
 julia_version = "1.11.1"
 os = "freebsd"
 
     [[z3.download]]
-    sha256 = "86013444f85c501f8d77c38e9fc35be29645996a4171cc7924ad5033efad9a1d"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.x86_64-unknown-freebsd-julia_version+1.11.1.tar.gz"
+    sha256 = "7450e31089e4ccfbf9a934b7b1f7762fec302634f521e3d9a54de7bf7bf27c15"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.x86_64-unknown-freebsd-julia_version+1.11.1.tar.gz"
 [[z3]]
 arch = "x86_64"
-git-tree-sha1 = "0c4b399db775acd95136c388f93a84eb77b5472f"
+git-tree-sha1 = "3ddc130787ae056918b73269de75b6407724984f"
 julia_version = "1.12.0"
 os = "freebsd"
 
     [[z3.download]]
-    sha256 = "af155bb3952ae66f6d1db86179cea62fab96f79f36bc42c1bb5c0558d6cd4526"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.x86_64-unknown-freebsd-julia_version+1.12.0.tar.gz"
+    sha256 = "934c4c184585c51796cc88da931930f39577e963609ebe33e75ad63c78b4c6d9"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.x86_64-unknown-freebsd-julia_version+1.12.0.tar.gz"
 [[z3]]
 arch = "x86_64"
-git-tree-sha1 = "360c96f97dc6689c3c8552139b38f827e93a3514"
+git-tree-sha1 = "89275fed5c59c52191580147d69daef1240f467d"
 julia_version = "1.13.0"
 os = "freebsd"
 
     [[z3.download]]
-    sha256 = "1e4798bffd48784c5d5f9972f63100e24687a6df32e53a5a82c19eaece3cf3af"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.x86_64-unknown-freebsd-julia_version+1.13.0.tar.gz"
+    sha256 = "6f4a3e956ee6a9b789bff04a8961e85f23f7c9dd7e733e8c2b04de8333865708"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.x86_64-unknown-freebsd-julia_version+1.13.0.tar.gz"
 [[z3]]
 arch = "x86_64"
-git-tree-sha1 = "58bc8012107a04afcd6c06c454166b3778357f42"
+git-tree-sha1 = "9d80b510c811e847d4cd953ac7d0493f71967b30"
 julia_version = "1.14.0"
 os = "freebsd"
 
     [[z3.download]]
-    sha256 = "66c4e778b4a813ed26d31f536c94d6329557d7074bde47648d9087239a554476"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.x86_64-unknown-freebsd-julia_version+1.14.0.tar.gz"
+    sha256 = "f9bd91f00f0e1545a48df82dc1826c9167ab3732ca12f1ff71e8a568b4d240fc"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.x86_64-unknown-freebsd-julia_version+1.14.0.tar.gz"
 [[z3]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8b488ce9830151ce4ed0e3ee4256c0e274a60169"
+git-tree-sha1 = "517e74c1d970abf89d46da4128c519bff190523d"
 julia_version = "1.10.0"
 os = "windows"
 
     [[z3.download]]
-    sha256 = "798e46f9dc7913b5c0a246dd1ceb6179d524d0ed6e3f11acb2fe8efc3fd81ba9"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.x86_64-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "4fe5720d3ba296bce55a08499f9e7dc8832bd206337ebdc1c0b412a89917e7c0"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.x86_64-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
 [[z3]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ba22bce0dbd25a6e2264357d5da133d696559ec6"
+git-tree-sha1 = "705a26b11a8438eae95eb7c8946d7bd0a4ab856c"
 julia_version = "1.11.1"
 os = "windows"
 
     [[z3.download]]
-    sha256 = "fcffee62178e41e958c7a5b2482b385b2a777d4090f3c0ec2abb3015a129bbe1"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.x86_64-w64-mingw32-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "ddf9ac9a6d5ad2c0473595086afcb82decd4fa39eebea7e843099453959b69e0"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.x86_64-w64-mingw32-cxx11-julia_version+1.11.1.tar.gz"
 [[z3]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "55ae68e5d6927dc6301d41557784cffd3f11afcf"
+git-tree-sha1 = "63c984b9e1ee46d7e86c6e8cc22ea89a36479ffb"
 julia_version = "1.12.0"
 os = "windows"
 
     [[z3.download]]
-    sha256 = "13c38a783aa81a62345f69485424b90fef960c027b7073a9427e75ba6206f73c"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.x86_64-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "464dd0c166118aafb5b5cc3fc937ac15583b3c53d400d82053cfd19f684e2043"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.x86_64-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
 [[z3]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "150f34fca3ef0775829d03d92b3c71c14a7a6ef1"
+git-tree-sha1 = "2839756feddd7e724f2c6db4b0a56cf4700445be"
 julia_version = "1.13.0"
 os = "windows"
 
     [[z3.download]]
-    sha256 = "e9ecde4430b09bbc28ab429047807580151f10b0a6188232ccb7459467475daf"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.x86_64-w64-mingw32-cxx11-julia_version+1.13.0.tar.gz"
+    sha256 = "22cbdbe5d75f9e703bf976c3a5ffd84167f59db0f45fde084102f27b5fec62cf"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.x86_64-w64-mingw32-cxx11-julia_version+1.13.0.tar.gz"
 [[z3]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c58d7aa97ca3eace26714561da9735e25f19a579"
+git-tree-sha1 = "5a6154bc7768fce8b02a08d636ae708b61812a04"
 julia_version = "1.14.0"
 os = "windows"
 
     [[z3.download]]
-    sha256 = "fda0d5b6715cc1b90ee8013cedfe58fae4ad3213160e7ef911de608f2eb0e061"
-    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.15.8+0/z3.v4.15.8.x86_64-w64-mingw32-cxx11-julia_version+1.14.0.tar.gz"
+    sha256 = "56465eedafb34144ca728abb30d3742afbf7f719238e937da1322122d1a4fcd8"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.16.0+0/z3.v4.16.0.x86_64-w64-mingw32-cxx11-julia_version+1.14.0.tar.gz"
